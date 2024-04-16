@@ -5,7 +5,7 @@ html, body {
 #outer {
     width: 100vw;
     height: 100vh;
-    background-color: lightgray;
+    background-color: blue;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,5 +15,4 @@ html, body {
     width: 41.4rem;
     height: 89.6rem;
     background-color: white;
-    
 }
