@@ -4,8 +4,8 @@ html, body {
 
 #outer {
     width: 100vw;
-    height: 100vh;
-    background-color: blue;
+    height: 89.6rem;
+    background-color: lightgray;
     display: flex;
     justify-content: center;
     align-items: center;
