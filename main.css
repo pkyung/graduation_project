@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+}
+
+#outer {
+    width: 100vw;
+    height: 100vh;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#frame {
+    width: 600px;
+    height: 896px;
+    background-color: white;
+}
